@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Negi</h1>
 <h3 align="center">A Computer Science major from India.</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Database**
 
-- 💬 Ask me about **c++, DSA**
+- 💬 Ask me about **c++, DSA**, c**, java**, python**
 
 - 📫 How to reach me **negivaishnavi681@gmail.com**
 
