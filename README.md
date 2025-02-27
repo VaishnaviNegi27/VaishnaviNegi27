@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Database**
 
-- 💬 Ask me about **c++, DSA** 
+- 💬 Ask me about **c++, html, c** 
 
 - 📫 How to reach me **negivaishnavi681@gmail.com**
 
